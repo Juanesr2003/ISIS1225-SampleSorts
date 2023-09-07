@@ -32,9 +32,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
-1. Student No. 2 Name, Student No. 2 Uniandes Email, Student No. 2 owned functionality.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
+1. Ana María Núñez Hernandez a.nunezh@uniandes.edu.co, 202211211.
+2. Juan Esteban Rodriguez je.rodriguez2@uniandes.edu.co, 202210288.
+3. Loise Geraint Rojas Arguello l.rojasa@uniandes.edu.co, 201915258.
 
 [Back to top](#sample-sorts)
 
